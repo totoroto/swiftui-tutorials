@@ -2,7 +2,7 @@
 
 ## SwiftUI Essentials
 
-[Creating and Combining Views](SwiftUI%20Tutorials%202178a4c9c06e4ca0aefa260c94795a76/Creating%20and%20Combining%20Views%201cb25d787db944f28e3a2fba517caf77.md)
+[Creating and Combining Views](document/CreatingandCombiningViews.md)
 
 Building Lists and Navigation
 
