@@ -5,7 +5,7 @@
         1. [Preview 창] command + 좌클릭 → Show SwiftUI Inspector
         2. [Code Editor 창] Text를 command 좌클릭 → Show SwiftUI Inspector
 
-            ![CreatingandCombiningViews/Untitled.png](CreatingandCombiningViews/Untitled.png)
+            ![resources/Untitled.png](resources/Untitled.png)
 
         3. control + option + click
 - Combine Views Using Stacks
@@ -95,7 +95,7 @@
 
         live preview로 바꿔줘야한다.
 
-        ![CreatingandCombiningViews/Untitled01.png](CreatingandCombiningViews/Untitled01.png)
+        ![resources/Untitled01.png](resources/Untitled01.png)
 
         ```swift
         import SwiftUI
@@ -162,4 +162,4 @@
         }
         ```
 
-        ![CreatingandCombiningViewsUntitled02.png](CreatingandCombiningViews/Untitled02.png)
+        ![resources/Untitled02.png](resources/Untitled02.png)
