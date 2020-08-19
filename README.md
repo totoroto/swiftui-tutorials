@@ -6,7 +6,7 @@
 
 [Building Lists and Navigation](document/BuildingListsandNavigation.md)
 
-Handling User Input
+[Handling User Input](document/HandlingUserInput.md)
 
 ## Drawing and Animation
 
