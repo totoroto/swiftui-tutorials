@@ -12,7 +12,7 @@
 
 Drawing Paths and Shapes
 
-Animating Views and Transitions
+[Animating Views and Transitions](document/AnimatingViewsandTransitions.md)
 
 ## App Design and Layout
 
