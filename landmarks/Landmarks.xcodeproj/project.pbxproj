@@ -36,6 +36,7 @@
 		C48EF89E24ED477A0015015E /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48EF89D24ED477A0015015E /* HikeView.swift */; };
 		C48EF8A024ED47EB0015015E /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48EF89F24ED47EB0015015E /* HikeDetail.swift */; };
 		C48EF8A424ED48D00015015E /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = C48EF8A324ED48D00015015E /* hikeData.json */; };
+		C48EF8A624ED5A580015015E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C48EF8A524ED5A580015015E /* LICENSE */; };
 		C4C12AF224CB1EAD00D5B7C9 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C12AF124CB1EAD00D5B7C9 /* CircleImage.swift */; };
 		C4C12AF424CB218F00D5B7C9 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C12AF324CB218F00D5B7C9 /* MapView.swift */; };
 		C4C20C8F24D7046600E0527A /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C20C8E24D7046600E0527A /* UserData.swift */; };
@@ -73,6 +74,7 @@
 		C48EF89D24ED477A0015015E /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HikeView.swift; path = "../../../../Downloads/AnimatingViewsAndTransitions-2/StartingPoint/Landmarks/Landmarks/HikeView.swift"; sourceTree = "<group>"; };
 		C48EF89F24ED47EB0015015E /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		C48EF8A324ED48D00015015E /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
+		C48EF8A524ED5A580015015E /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LICENSE; sourceTree = "<group>"; };
 		C4C12AF124CB1EAD00D5B7C9 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		C4C12AF324CB218F00D5B7C9 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		C4C20C8E24D7046600E0527A /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 		C454ABE724C5BBAC0083CD73 = {
 			isa = PBXGroup;
 			children = (
+				C48EF8A524ED5A580015015E /* LICENSE */,
 				C454ABF224C5BBAC0083CD73 /* Landmarks */,
 			);
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				C43B397E24CDBF4B0037D7AA /* umbagog.jpg in Resources */,
 				C43B397B24CDBF4B0037D7AA /* turtlerock.jpg in Resources */,
 				C43B397F24CDBF4B0037D7AA /* charleyrivers.jpg in Resources */,
+				C48EF8A624ED5A580015015E /* LICENSE in Resources */,
 				C43B397824CDBF4B0037D7AA /* chilkoottrail.jpg in Resources */,
 				C43B397624CDBF4B0037D7AA /* stmarylake.jpg in Resources */,
 				C43B397924CDBF4B0037D7AA /* lakemcdonald.jpg in Resources */,
