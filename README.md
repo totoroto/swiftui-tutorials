@@ -1,6 +1,9 @@
-# SwiftUI Tutorials
+## SwiftUI Stanford - Memorize
+https://cs193p.sites.stanford.edu
 
-## SwiftUI Essentials
+## SwiftUI Tutorials
+https://developer.apple.com/tutorials/swiftui  
+### SwiftUI Essentials
 
 [Creating and Combining Views](document/CreatingandCombiningViews.md)
 
@@ -8,19 +11,19 @@
 
 [Handling User Input](document/HandlingUserInput.md)
 
-## Drawing and Animation
+### Drawing and Animation
 
 Drawing Paths and Shapes
 
 [Animating Views and Transitions](document/AnimatingViewsandTransitions.md)
 
-## App Design and Layout
+### App Design and Layout
 
 Composing Complex Interfaces
 
 Working with UI Controls
 
-## Framework Integration
+### Framework Integration
 
 Interfacing with UIKit
 
